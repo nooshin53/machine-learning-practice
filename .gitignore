@@ -1,1 +1,27 @@
+# Jupyter
 .ipynb_checkpoints/
+.virtual_documents/
+
+# Temporary Jupyter notebooks
+Untitled*.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Generated model files
+*.pkl
+
+# Local datasets
+datasets/
+
+# Temporary chat files
+*.chat
+
+# Environment variables
+.env
